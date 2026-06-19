@@ -9,11 +9,11 @@ import re
 from datetime import datetime
 from telethon import TelegramClient, events, Button
 
-CHECKER_API_URL = 'https://afuona.up.railway.app/shopify'
+CHECKER_API_URL = 'http://76.13.78.203:5000/shopify'
 
 API_ID = 35384207
 API_HASH = '09c4bc9de62a417ccdd0c69b33912515'
-BOT_TOKEN = '8518219738:AAE7swfzvwSRuz6HxyGlQ21GLfBD8uLYeK4'
+BOT_TOKEN = '8632911736:AAE8_sb5bsYewNVmSA_t0GgT3SV-A70cKuQ'
 ADMIN_IDS = [8199994609]
 
 def is_admin(user_id):
