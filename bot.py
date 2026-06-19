@@ -13,7 +13,7 @@ CHECKER_API_URL = 'https://afuona.up.railway.app/shopify'
 
 API_ID = 35384207
 API_HASH = '09c4bc9de62a417ccdd0c69b33912515'
-BOT_TOKEN = ''
+BOT_TOKEN = '8518219738:AAE7swfzvwSRuz6HxyGlQ21GLfBD8uLYeK4'
 ADMIN_IDS = [8199994609]
 
 def is_admin(user_id):
@@ -22,7 +22,7 @@ def is_admin(user_id):
 PREMIUM_FILE = 'premium.txt'
 SITES_FILE = 'sites.txt'
 PROXY_FILE = 'proxy.txt'
-WELCOME_IMAGE_PATH = 'afuona.jpg'
+WELCOME_IMAGE_PATH = 'IMG-20260619-WA0000.jpg'
 
 PREMIUM_EMOJI_IDS = {
     "✅": "5123163417326126159",
